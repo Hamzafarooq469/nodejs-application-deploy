@@ -4,7 +4,7 @@ name: Deploy NodeJS Application to Hostinger
 on: 
  push: 
   branches: 
-   - main
+   - master
 
 jobs: 
   deploy:
